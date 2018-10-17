@@ -10,6 +10,18 @@
 
 # 100 Days Of Python - Log
 
+## Day 4: October 16, 2018 - .5hr
+**Today's Progress:**  
+Goal to finish course Getting started w Python and the PyStudentManager example app  
+Began writing the app with functions in chap 4  
+Also started working on script to create hooks files for antsle  
+
+**Thoughts:**  
+**Link to work:**  
+[PyStudentManager](https://github.com/Shortrope/Python-60-days-of/tree/master/Projects/PyStudentManager)
+<br><br>
+
+---
 ## Day 3: October 15, 2018 - 1hr
 **Today's Progress:**  
 Codewars challenge: spinWords.py  
