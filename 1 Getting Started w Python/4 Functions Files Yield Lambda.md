@@ -1,12 +1,14 @@
 # Functions, Files, Yield and Lambda
 
 ## Functions
+Functions should do only one thing!
+Command Query principle
 
     def func_name(arg1, arg2):
     def func_name(arg1, arg2=10):     # default value
-    def func_name(*args):             # variable num of args
+    def func_name(*args):             # variable num of args, args is a list
     def func_name(name, *args):       # variable num of args
-    def func_name(name, **kwargs):    # variable num of KeyWord args
+    def func_name(name, **kwargs):    # variable num of KeyWord args, kwargs is a dict
 
 
 Return
