@@ -49,3 +49,15 @@ _readlines()_ returns a list
     f = open("students.txt", "r")
     for stud in f.readlines():
       ...
+
+## Yield
+
+## Lambda
+Regular function:
+
+    def double(x):
+        return x * 2
+
+Lambda function:
+
+    double = lambda x: x * 2
