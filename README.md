@@ -10,6 +10,17 @@
 
 # 100 Days Of Python - Log
 
+## Day 5: October 17, 2018 - 1hr
+**Today's Progress:**  
+Start learning how to create Classes in Python
+
+**Thoughts:**  
+Good thing I did my time early this morning or would not have gotten my time in today
+
+**Link to work:**  
+<br><br>
+
+---
 ## Day 4: October 16, 2018 - .5hr
 **Today's Progress:**  
 Goal to finish course Getting started w Python and the PyStudentManager example app  
