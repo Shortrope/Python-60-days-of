@@ -10,6 +10,18 @@
 
 # 100 Days Of Python - Log
 
+## Day 6: October 18, 2018 - 1.75hr
+**Today's Progress:**  
+Instance and Class attributes  
+Inheritance and Polymorphism  
+Modules - import  
+**Thoughts:**  
+Excited to get started studying today!  
+
+**Link to work:**  
+<br><br>
+
+---
 ## Day 5: October 17, 2018 - 1hr
 **Today's Progress:**  
 Start learning how to create Classes in Python
