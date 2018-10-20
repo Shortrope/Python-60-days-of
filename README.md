@@ -10,6 +10,18 @@
 
 # 100 Days Of Python - Log
 
+## Day 7: October 19, 2018 - 1.5hr
+**Today's Progress:**  
+Start creating my on PyBookManager app from scratch  
+
+**Thoughts:**  
+Again, ready to go first thing in the morning
+
+**Link to work:**  
+[PyBookManager](https://github.com/Shortrope/Python-60-days-of/tree/master/Projects/PyBookManager)
+<br><br>
+
+---
 ## Day 6: October 18, 2018 - 1.75hr
 **Today's Progress:**  
 Instance and Class attributes  
