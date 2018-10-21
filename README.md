@@ -10,6 +10,16 @@
 
 # 100 Days Of Python - Log
 
+## Day 8: October 20, 2018 - 1.5hr
+**Today's Progress:**  
+Create Search function for PyBookManager  
+
+**Thoughts:**  
+**Link to work:**  
+[PyBookManager](https://github.com/Shortrope/Python-60-days-of/tree/master/Projects/PyBookManager)
+<br><br>
+
+---
 ## Day 7: October 19, 2018 - 1.5hr
 **Today's Progress:**  
 Start creating my on PyBookManager app from scratch  
