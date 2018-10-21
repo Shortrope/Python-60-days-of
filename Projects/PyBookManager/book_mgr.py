@@ -1,4 +1,5 @@
-from functions import display_books, search_books, add_book, delete_book
+import os
+#from functions import display_books, search_books, add_book, delete_book
 from book import Book
 
 """
@@ -26,13 +27,39 @@ Create functions to
 
 books = []
 
-add_book(Book("HTML and CSS", "Mario Kaack", 2008), books)
-add_book(Book("CCNP Training", "David Huckaby", 2012), books)
-add_book(Book("Learning SQL", "Joe Piscapo", 2014), books)
+def display_books():
+    for book in books:
+        print(book)
 
-# Application loop
-while True:
-    # Display menu of actions
+def add_book(book):
+    """
+    Adds a book object to the list
+    :param book: dict - title, author, year
+    """
+    books.append(book)
+
+def search_books(term):
+    results = []
+    for book in books:
+        if book.title.find(term) != -1 or book.author.find(term) != -1:
+            results.append(book)
+    for book in results:
+        print(book)
+
+def delete_book(title):
+    for book in books:
+        if book.title.find(title) != -1:
+            del books[books.index(book)]
+            return
+    print(f"{title} not found.")
+
+add_book(Book("HTML and CSS", "Mario Kaack", 2008))
+add_book(Book("CCNP Training", "David Huckaby", 2012))
+add_book(Book("Learning SQL", "Joe Piscapo", 2014))
+
+def display_menu():
+    os.system('clear')
+    print('\n')
     print("What would you like to do?")
     print("1) View list of books")
     print("2) Search for a book")
@@ -40,27 +67,38 @@ while True:
     print("4) Delete a book")
     print("q) Quit")
 
+# Application loop
+display_menu()
+while True:
+    # Display menu of actions
     action = input("\n(?) : ")
+    display_menu()
 
     if action == "1":
         print()
-        display_books(books)
+        display_books()
         print()
     elif action == "2":
+        print()
         search_term = input("Search Term: ")
         print()
-        search_books(search_term, books)
+        search_books(search_term)
         print()
     elif action == "3":
+        print()
+        print('Add Book:')
         title = input("Book Title: ")
         author = input("Book Author: ")
         year = input("Book Year: ")
         book = Book(title, author, year)
-        add_book(book, books)
+        add_book(book)
     elif action == "4":
-        delete_book()
+        print()
+        print("Delete:")
+        title = input("Title: ")
+        delete_book(title)
     elif action == "q" or action == "Q":
-        print("Quiting...")
+        os.system('clear')
         break
     else:
         print("Invalid Choice!")
