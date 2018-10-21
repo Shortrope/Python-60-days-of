@@ -47,7 +47,10 @@ while True:
         display_books(books)
         print()
     elif action == "2":
-        search_books()
+        search_term = input("Search Term: ")
+        print()
+        search_books(search_term, books)
+        print()
     elif action == "3":
         title = input("Book Title: ")
         author = input("Book Author: ")
