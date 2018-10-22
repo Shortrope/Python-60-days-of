@@ -10,6 +10,19 @@
 
 # 100 Days Of Python - Log
 
+## Day 9: October 21, 2018 - 2hr
+**Today's Progress:**  
+Finish PyBookManager:   
+Create delete function.   
+Redisplay console after each action to keep screen clean  
+Work on handling text files for creating hooks file.  
+
+**Thoughts:**  
+**Link to work:**  
+[PyBookManager](https://github.com/Shortrope/Python-60-days-of/tree/master/Projects/PyBookManager)
+<br><br>
+
+---
 ## Day 8: October 20, 2018 - 1.5hr
 **Today's Progress:**  
 Create Search function for PyBookManager  
