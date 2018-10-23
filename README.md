@@ -10,6 +10,19 @@
 
 # 100 Days Of Python - Log
 
+## Day 11: October 23, 2018 - 1hr
+**Today's Progress:**  
+Backtrack a bit. Plan the HooksFile script.  
+Learn about `optparse` module  
+
+**Thoughts:**  
+I start out wanting all possible options and checks  
+I should start with the simplest working form to get it done  
+
+**Link to work:**  
+<br><br>
+
+---
 ## Day 10: October 22, 2018 - 2hr
 **Today's Progress:**  
 Create hooks file  
