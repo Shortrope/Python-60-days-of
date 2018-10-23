@@ -10,6 +10,18 @@
 
 # 100 Days Of Python - Log
 
+## Day 10: October 22, 2018 - 2hr
+**Today's Progress:**  
+Create hooks file  
+Start Python Quick Start for Linux Sys Admins  
+
+**Thoughts:**  
+The `os` module is cool
+
+**Link to work:**  
+<br><br>
+
+---
 ## Day 9: October 21, 2018 - 2hr
 **Today's Progress:**  
 Finish PyBookManager:   
