@@ -5,8 +5,9 @@ Use command line arguments to input info
 
 ### Inputs
 - antlet name
-- antlet listen ports
-- host listen ports
+- portmappings
+    - space separated
+    - in the form hostport:antletport e.g. 8080:80
 
 ## Auto Input
 - Host IP
@@ -14,14 +15,17 @@ Use command line arguments to input info
 - antlet type
 
 ## Checks
+- /etc/libvirt/hooks/ exists
 - Valid antlet name
+- lxc or qemu file exists
 - Host ports already used
+- Does the antlet have an entry in the file
 
 ---
 
 ## Help
     # create-hook-file --help  
-    Usage: create-hook-file [options] antlet_name portmap1 [portmap2 portmapN]
+    Usage: hook-file.py [options] antlet_name portmap1 [portmap2 portmapN]
     portmap can be in the form of a single port number
       80                    Both the host and antlet port are the same
     or in the form host_port:antlet_port useing a semicolon separator
@@ -30,3 +34,5 @@ Use command line arguments to input info
     Options:
       -h,  --help           Show this help message
       -v,  --verbose        Display feedback for each step processed
+      --hostports           Display used host ports by both lxc and kvm antlets
+      --show ANTLET         antlet_name or 'all'
