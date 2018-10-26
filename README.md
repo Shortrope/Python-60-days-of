@@ -10,6 +10,15 @@
 
 # 100 Days Of Python - Log
 
+## Day 13: October 25, 2018 - 1hr
+**Today's Progress:**  
+Review optparse, start reading optparse documentation  
+
+**Thoughts:**  
+**Link to work:**  
+<br><br>
+
+---
 ## Day 12: October 24, 2018 - 1hr
 **Today's Progress:**  
 hooks-file.py: check for hooks directory and create if not exist  
