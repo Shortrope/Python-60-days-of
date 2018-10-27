@@ -10,6 +10,16 @@
 
 # 100 Days Of Python - Log
 
+## Day 14: October 26, 2018 - 1hr
+**Today's Progress:**  
+Improve optparse  
+Start working on check for valid antlet name  
+
+**Thoughts:**  
+**Link to work:**  
+<br><br>
+
+---
 ## Day 13: October 25, 2018 - 1hr
 **Today's Progress:**  
 Review optparse, start reading optparse documentation  
