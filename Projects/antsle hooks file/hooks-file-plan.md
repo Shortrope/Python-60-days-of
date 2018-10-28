@@ -10,16 +10,22 @@ Use command line arguments to input info
     - in the form hostport:antletport e.g. 8080:80
 
 ## Auto Input
-- Host IP
-- antlet IP
-- antlet type
+ToDo:
+- get host ip
+- get antlet ip
+
+Done:
+- _get antlet type_
 
 ## Checks
-- /etc/libvirt/hooks/ exists
-- Valid antlet name
+ToDo:
 - lxc or qemu file exists
 - Host ports already used
 - Does the antlet have an entry in the file
+
+Done:
+- _/etc/libvirt/hooks/ exists_
+- _Valid antlet name_
 
 ---
 

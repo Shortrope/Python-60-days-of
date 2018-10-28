@@ -10,6 +10,23 @@
 
 # 100 Days Of Python - Log
 
+## Day 16: October 28, 2018 - 2hr
+**Today's Progress:**  
+hook-file.py: Finsh check for valid antlet name - antlet_exists()  
+hook-file.py: get_antlet_type()
+
+**Thoughts:**  
+**Link to work:**  
+In gitlab
+<br><br>
+
+---
+## Day 15: October 27, 2018 - 0hr
+**Today's Progress:**  
+Missed Day. Watched some Lean Six Sigma videos.
+<br><br>
+
+---
 ## Day 14: October 26, 2018 - 1hr
 **Today's Progress:**  
 Improve optparse  
