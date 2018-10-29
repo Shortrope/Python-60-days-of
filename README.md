@@ -10,12 +10,21 @@
 
 # 100 Days Of Python - Log
 
-## Day 16: October 28, 2018 - 2hr
+## Day 16: October 28, 2018 - 3.5hr
 **Today's Progress:**  
-hook-file.py: Finsh check for valid antlet name - antlet_exists()  
-hook-file.py: get_antlet_type()
+hook-file.py: 
+- Finsh check for valid antlet name - antlet_exists()  
+- get_antlet_type()
+- get_antlet_ip()
+- append new rules if hook file exists
 
 **Thoughts:**  
+I keep coming up with new things that must be checked!
+- can't have duplicate host ports
+- adding ports for an antlet already in the hooks file
+- removing a port#
+- removing all for an antlet
+
 **Link to work:**  
 In gitlab
 <br><br>
