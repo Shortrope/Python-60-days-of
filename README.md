@@ -10,6 +10,19 @@
 
 # 100 Days Of Python - Log
 
+## Day 17: October 29, 2018 - 1.5hr
+**Today's Progress:**  
+Chap 4 python fundamentals
+
+**Thoughts:**  
+Thinking about a deferent method for the hookfile.py script.  
+Use a simple config file that is read by the script with only the 
+basic info (variable info) for each antlet. Then hookfiles are recreated from the config file.
+
+**Link to work:**  
+<br><br>
+
+---
 ## Day 16: October 28, 2018 - 3.5hr
 **Today's Progress:**  
 hook-file.py: 
