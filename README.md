@@ -10,6 +10,15 @@
 
 # 100 Days Of Python - Log
 
+## Day 18: October 30, 2018 - 1hr
+Chap 5 and 6 of Python Fundamentals  
+
+**Today's Progress:**  
+**Thoughts:**  
+**Link to work:**  
+<br><br>
+
+---
 ## Day 17: October 29, 2018 - 1.5hr
 **Today's Progress:**  
 Chap 4 python fundamentals
