@@ -10,6 +10,15 @@
 
 # 100 Days Of Python - Log
 
+## Day 19: October 31, 2018 - 1hr
+**Today's Progress:**  
+Review and notes chap 6. Tuples and str  
+
+**Thoughts:**  
+**Link to work:**  
+<br><br>
+
+---
 ## Day 18: October 30, 2018 - 1hr
 Chap 5 and 6 of Python Fundamentals  
 
