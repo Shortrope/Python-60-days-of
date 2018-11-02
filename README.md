@@ -10,6 +10,15 @@
 
 # 100 Days Of Python - Log
 
+## Day 20: November 1, 2018 - 1.5hr
+**Today's Progress:**  
+Python Fund: Chap 6: Range and Lists  
+Restart hookfile script using a case statement  
+**Thoughts:**  
+**Link to work:**  
+<br><br>
+
+---
 ## Day 19: October 31, 2018 - 1hr
 **Today's Progress:**  
 Review and notes chap 6. Tuples and str  
