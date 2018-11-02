@@ -21,6 +21,7 @@ Done:
 ## Checks
 ToDo:
 - List host ports already used
+- Display all antlet port-mappings
 - Does the antlet have an entry in the file
 - Modify antlet ports
 - Remove antlet ports
