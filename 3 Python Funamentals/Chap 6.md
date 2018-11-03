@@ -171,3 +171,93 @@ See vid 6-6 and 6-7 for full explaination of shallow copy
     k.sort()
     k.sort(reverse=True)
     k.sort(key)
+
+### k.sort(key)
+`key`: accepts any 'callable' obj... like a function  
+The `key` is used to extract items
+
+    h = "not perplexing do handwriting family where I illegibly know doctors".split()
+    h.sort(key=len)
+    s = ' '.join(h)
+
+This is an 'in place' sort - beware
+
+### sorted()
+sorts any iterable and returns a new list
+
+### reversed()
+reverses an iterable and returns an iterator - not a list
+
+## Dict
+Unordered mapping of 
+- unique, immutable keys
+- mutable values
+
+### Keys
+Must be immutable :  str, numbers, tuples 
+
+### Constructor
+Can convert other types to a dict
+`dict()` accepts iterable of key-value pairs as 2-tuples
+
+### shallow copy
+    sc = d.copy()
+    dsc = dict(d)   # pass an existing dict to the constructor
+
+### concatination
+    nd = d.update(md)
+If duplicate keys, the new values are used  
+
+    for key in colors:
+        print("{key} -> {value}".format(key=key, value=colors[key]))
+
+    for value in colors.values():
+    for key in colors.key():
+    for key, value in colors.item():    # iterates over tuples
+
+### `in` and `not in`
+Only operates on the keys
+
+### Remove items
+del colors['blue']
+
+### Pretty printing 
+from pprint import pprint as pp
+
+    pp(mydict)
+
+## set
+- unordered, mutable collection
+- unique, immutable objects
+
+Uses `{ }` like a dict but contains single items  
+Create an empty `set` w its constructor  
+
+    e = set()
+
+Sets can be constructed from any iterable  
+Duplicates are discarded!
+
+    t = [1,4,1,2,5,7,7]
+    s = set(t)      
+    >>> [1,4,2,5,7]
+
+- in, not in
+- s.add(9)
+- s.update([12,23,45])
+- s.remove(23)
+- s.discard(23)     # no error if not in
+- t = s.copy()      # shallow
+- t = set(s)        # shallow copy
+
+### Set Algebra
+    blue_eyes.union(blond_hair)                 # all blue_eys and all blond_hair
+    blue_eyes.intersection(blond_hair)          # all with blue_eys and blond_hair
+    blue_eyes.difference(blond_hair)            # all with blue_eys and not blond_hair
+    blue_eyes.symmetric_difference(blond_hair)  # all with blue_eys or blond_hair but not both
+
+    blue_eyes.issubset(blond_hair)              # are all blue_eyes also in blond_hair
+    blue_eyes.issuperset(blond_hair)            # ??
+    blue_eyes.isdisjoint(blond_hair)            # no members in common
+    
+

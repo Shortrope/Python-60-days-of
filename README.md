@@ -1,5 +1,5 @@
 <!-- 
-## Day N: October N, 2018 - Nhr
+## Day N: November N, 2018 - Nhr
 **Today's Progress:**  
 **Thoughts:**  
 **Link to work:**  
@@ -10,6 +10,15 @@
 
 # 100 Days Of Python - Log
 
+## Day 21: November 2, 2018 - 1hr
+**Today's Progress:**  
+Python Funcamentals, Chap 6: Dicts and Sets  
+
+**Thoughts:**  
+**Link to work:**  
+<br><br>
+
+---
 ## Day 20: November 1, 2018 - 1.5hr
 **Today's Progress:**  
 Python Fund: Chap 6: Range and Lists  
