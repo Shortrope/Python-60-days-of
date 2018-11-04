@@ -21,7 +21,6 @@ Done:
 ## Checks
 ToDo:
 - List host ports already used
-- Display all antlet port-mappings
 - Does the antlet have an entry in the file
 - Modify antlet ports
 - Remove antlet ports
@@ -31,6 +30,10 @@ Done:
 - _Valid antlet name_
 - _lxc or qemu file exists_
 
+Other functions:
+- List host ports already used
+- Display all antlet port-mappings
+- Display single antlet port-mappings
 ---
 
 ## Help

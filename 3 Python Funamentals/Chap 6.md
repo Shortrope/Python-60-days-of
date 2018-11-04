@@ -219,10 +219,10 @@ If duplicate keys, the new values are used
 Only operates on the keys
 
 ### Remove items
-del colors['blue']
+    del colors['blue']
 
 ### Pretty printing 
-from pprint import pprint as pp
+    from pprint import pprint as pp
 
     pp(mydict)
 
