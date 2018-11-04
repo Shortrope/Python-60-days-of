@@ -3,13 +3,18 @@
 ## 11/3/2018  Pair programing w William
 
 ### 1. Getting multiple iterations of the same antlet_info in the `list_of_antlets`
-Our for loop process:
 
-    read line
+Our 'for' loop process:
+
+    read line      # antlet_name=mysql-db
     add line info to dict
     append dict to list_of_antlets
+    read line      # antlet_type=lxc
+    add line info to dict
+    append dict to list_of_antlets
+    ...
 
-if we have info for a single antlet
+if we only use info for a single antlet
 
     antlet_name=mysql-db
     antlet_type=lxc
@@ -18,7 +23,6 @@ if we have info for a single antlet
     portmap=1111:1111
     portmap=2222:2222
 
-We were appending the dict to the list for each line of data
-**BUT** The `dict` we are adding is an object reference. 
-The list_of_antlets ends up with a length equal to the number of lines for that antlet.
-And each element is the same object reference... the same object
+We are appending the dict to the list for each line of data.  6 dict items in the list in this case.
+**BUT**   the `dict` we are adding is an object reference!
+Each list element is the same object reference... pointing to the same dict object 

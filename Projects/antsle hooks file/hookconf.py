@@ -29,22 +29,22 @@ def get_antlet_data(cleaned_data):
 
     for line in cleaned_data:
         if "antlet_name" in line:
+
+            if len(antlet_info) != 0:
+                list_of_antlets.append(antlet_info)
+
             antlet_info = dict()
             k, _, v = line.partition('=')
             antlet_info["antlet_name"] = v
-            print(antlet_info)
 
         elif "antlet_type" in line:
             antlet_info["antlet_type"] = line.partition('=')[2]
-            print(antlet_info)
 
         elif "antlet_ip" in line:
             antlet_info["antlet_ip"] = line.partition('=')[2]
-            print(antlet_info)
 
         elif "host_ip" in line:
             antlet_info["host_ip"] = line.partition('=')[2]
-            print(antlet_info)
 
         elif "portmap" in line:
             hostport = line.partition('=')[2].partition(':')[0]
@@ -55,16 +55,15 @@ def get_antlet_data(cleaned_data):
             else:
                 antlet_info["hostports"] += "'{0}' ".format(hostport)
                 antlet_info["antletports"] += "'{0}' ".format(antletport)
-            print(antlet_info)
 
         else:
             print("Warning Will Robinson: can't create dict!")
 
-        list_of_antlets.append(antlet_info)
+    list_of_antlets.append(antlet_info)
 
-    pp(list_of_antlets)
+    return list_of_antlets
 
-get_antlet_data(clean_conf_data(hook_conf))
+pp(get_antlet_data(clean_conf_data(hook_conf)))
 
 
 
