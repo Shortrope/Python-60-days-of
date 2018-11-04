@@ -26,3 +26,43 @@ if we only use info for a single antlet
 We are appending the dict to the list for each line of data.  6 dict items in the list in this case.
 **BUT**   the `dict` we are adding is an object reference!
 Each list element is the same object reference... pointing to the same dict object 
+
+### 2. Variable Scope
+Function, Module, Python Built-in
+
+LEGB Rule.
+
+L, Local — Names assigned in any way within a function (def or lambda)), and not declared global in that function.
+
+E, Enclosing-function locals — Name in the local scope of any and all statically enclosing functions (def or lambda), from inner to outer.
+
+G, Global (module) — Names assigned at the top-level of a module file, or by executing a global statement in a def within the file.
+
+B, Built-in (Python) — Names preassigned in the built-in names module : open,range,SyntaxError,...
+
+## 3. Regular Expressions
+
+    pattern = re.compile(r'regex')
+    matches = pattern.finditer(text_to_search)
+    for match in matches:
+        print(match.group(0))
+
+Return a List of matches
+    
+    matches = pattern.findall(text_to_search)
+
+Return the first match as a match object
+
+    match = pattern.search(text_to_search)
+    print(match.group(0)) 
+
+The `group`s are the groups of the regex.
+Groups are enclosed in parens ().
+example:  phone number match:
+
+    r'(\d{3})-(\d{3})-(\d{4})'
+    
+0: is the entire match  
+1: is the first group  
+2: is the second group  
+3: is the third group  
