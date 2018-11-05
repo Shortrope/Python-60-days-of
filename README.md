@@ -10,6 +10,31 @@
 
 # 100 Days Of Python - Log
 
+## Day 23: November 4, 2018 - 2.5hr
+**Today's Progress:**  
+Refactor hookconf.py for more consise parsing  
+Reviewed variable scope, Using a 'main' function  
+How to use Regular Expressions  
+Debugging in VS Code  
+
+**Thoughts:**  
+**Link to work:**  
+<br><br>
+
+---
+## Day 22: November 3, 2018 - 4.5hr
+**Today's Progress:**  
+Pair programming with Will - 3.5 hrs
+Work on hooks file script - using a config file _hooks.conf_
+
+**Thoughts:**  
+Working w Will spured me on to really understand the issues we ran into while
+writing the script.  
+
+**Link to work:**  
+<br><br>
+
+---
 ## Day 21: November 2, 2018 - 1hr
 **Today's Progress:**  
 Python Funcamentals, Chap 6: Dicts and Sets  
