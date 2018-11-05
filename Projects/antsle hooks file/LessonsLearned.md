@@ -32,13 +32,10 @@ Function, Module, Python Built-in
 
 LEGB Rule.
 
-L, Local — Names assigned in any way within a function (def or lambda)), and not declared global in that function.
-
-E, Enclosing-function locals — Name in the local scope of any and all statically enclosing functions (def or lambda), from inner to outer.
-
-G, Global (module) — Names assigned at the top-level of a module file, or by executing a global statement in a def within the file.
-
-B, Built-in (Python) — Names preassigned in the built-in names module : open,range,SyntaxError,...
+- L, Local — Names assigned in any way within a function (def or lambda)), and not declared global in that function.
+- E, Enclosing-function locals — Name in the local scope of any and all statically enclosing functions (def or lambda), from inner to outer.
+- G, Global (module) — Names assigned at the top-level of a module file, or by executing a global statement in a def within the file.
+- B, Built-in (Python) — Names preassigned in the built-in names module : open,range,SyntaxError,...
 
 ## 3. Regular Expressions
 
@@ -47,18 +44,18 @@ B, Built-in (Python) — Names preassigned in the built-in names module : open,r
     for match in matches:
         print(match.group(0))
 
-Return a List of matches
+Return a List of matches  
     
     matches = pattern.findall(text_to_search)
 
-Return the first match as a match object
+Return the first match as a match object  
 
     match = pattern.search(text_to_search)
     print(match.group(0)) 
 
-The `group`s are the groups of the regex.
-Groups are enclosed in parens ().
-example:  phone number match:
+The `group`s are the groups of the regex.  
+Groups are enclosed in parens ().  
+example:  phone number match:  
 
     r'(\d{3})-(\d{3})-(\d{4})'
     
@@ -66,3 +63,13 @@ example:  phone number match:
 1: is the first group  
 2: is the second group  
 3: is the third group  
+
+## 4. main function
+The special variable `__name__` 
+- contains the module name if run in the REPL
+- contains the string '__main__' if run from the command line
+
+    if __name__ == "__main__":
+        main()
+
+By checking the `__name__` variable we can run the script on the cli or just import the functions for testing in the REPL

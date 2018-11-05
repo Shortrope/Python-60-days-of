@@ -4,6 +4,7 @@ import re
 
 #hooks_conf_path = "/etc/libvirt/hooks/hooks.conf"
 hooks_conf_path = "/mnt/e/_Projects/100/100-days-of-python/Projects/antsle hooks file/hooks.conf"
+#hooks_conf_path = "e:/_Projects/100/100-days-of-python/Projects/antsle hooks file/hooks.conf"
 
 def clean_conf_data(hooks_conf_path):
     cleaned_data = []
@@ -11,6 +12,7 @@ def clean_conf_data(hooks_conf_path):
     
     with open(hooks_conf_path, 'r') as f:
         for line in f:
+            # remove comment from line
             config_line, _, comment = line.partition('#')
             if empty_line_pattern.search(config_line) is None:
                 k, _, v = config_line.partition('=')
@@ -52,4 +54,10 @@ def get_antlet_data(cleaned_data):
 
     return list_of_antlets
 
-pp(get_antlet_data(clean_conf_data(hooks_conf_path)))
+def main():
+    pp(get_antlet_data(clean_conf_data(hooks_conf_path)))
+
+# Only run the main() functon if run from the cli. 
+# Do not run main() if importing in the REPL 
+if __name__ == "__main__":
+    main()
