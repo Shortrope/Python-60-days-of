@@ -1,4 +1,4 @@
-# Chap 6
+# Chap 6: Collection Types
 ## Main Topics
 - Built-in Collection Types
 - Protocols that Unite the Collections
@@ -130,6 +130,7 @@ or use tuple unpacking
     'index'
 
 ### slicing
+[start, end, stop]
 
     >>> s[1:3]
     ['how', 'to']
@@ -198,7 +199,14 @@ Must be immutable :  str, numbers, tuples
 
 ### Constructor
 Can convert other types to a dict
-`dict()` accepts iterable of key-value pairs as 2-tuples
+`dict()` constructor accepts:
+- iterable of key-value pairs as 2-tuples
+- keword arguments
+- mapping like another dict
+
+    names_ages = dict([('Shaggy', 22), ('Daphnie', 30)])
+    phonetic = dict(a='alfa', b='bravo', c='charlie')
+    mapping = dict(phonetic)
 
 ### shallow copy
     sc = d.copy()
@@ -261,3 +269,26 @@ Duplicates are discarded!
     blue_eyes.isdisjoint(blond_hair)            # no members in common
     
 
+## Collection Protocols
+Set of operations or methods that a type must support
+
+| Protocol         | Collection type                           |
+|------------------|-------------------------------------------|
+| Container        | str, list, range, tuple, bytes, set, dict |
+| Sized            | str, list, range, tuple, bytes, set, dict |
+| Iterable         | str, list, range, tuple, bytes, set, dict |
+| Sequence         | str, list, range, tuple, bytes, set, dict |
+| Mutable Sequence | list                                      |
+| Mutable Set      | set                                       |
+| Mutable Mapping  | dict                                      |
+
+_Container_:  Tesing w `in` and `not in`  
+_Sized_:  `len()`  
+_Iterable_: Can produce an iterable.. `for in`  
+_Sequence_: Items can be retrieved with an integer index.. 
+
+    item = a[2]
+    index = a.index(item)
+    ?? num = a.count(item)
+    num = len(d)
+    r = reversed(a)
