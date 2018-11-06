@@ -9,7 +9,14 @@
 -->
 
 # 100 Days Of Python - Log
+## Day 24: November 5, 2018 - 1hr
+**Today's Progress:**  
+Python Fundamentals: finish chap 6 collection types  
+Start Chap 7 Exceptions  
 
+<br><br>
+
+---
 ## Day 23: November 4, 2018 - 2.5hr
 **Today's Progress:**  
 Refactor hookconf.py for more consise parsing  
@@ -17,8 +24,6 @@ Reviewed variable scope, Using a 'main' function
 How to use Regular Expressions  
 Debugging in VS Code  
 
-**Thoughts:**  
-**Link to work:**  
 <br><br>
 
 ---
@@ -31,7 +36,6 @@ Work on hooks file script - using a config file _hooks.conf_
 Working w Will spured me on to really understand the issues we ran into while
 writing the script.  
 
-**Link to work:**  
 <br><br>
 
 ---
@@ -39,8 +43,6 @@ writing the script.
 **Today's Progress:**  
 Python Funcamentals, Chap 6: Dicts and Sets  
 
-**Thoughts:**  
-**Link to work:**  
 <br><br>
 
 ---
@@ -48,8 +50,7 @@ Python Funcamentals, Chap 6: Dicts and Sets
 **Today's Progress:**  
 Python Fund: Chap 6: Range and Lists  
 Restart hookfile script using a case statement  
-**Thoughts:**  
-**Link to work:**  
+
 <br><br>
 
 ---
@@ -57,17 +58,12 @@ Restart hookfile script using a case statement
 **Today's Progress:**  
 Review and notes chap 6. Tuples and str  
 
-**Thoughts:**  
-**Link to work:**  
 <br><br>
 
 ---
 ## Day 18: October 30, 2018 - 1hr
-Chap 5 and 6 of Python Fundamentals  
-
 **Today's Progress:**  
-**Thoughts:**  
-**Link to work:**  
+Chap 5 and 6 of Python Fundamentals  
 <br><br>
 
 ---
@@ -80,7 +76,6 @@ Thinking about a deferent method for the hookfile.py script.
 Use a simple config file that is read by the script with only the 
 basic info (variable info) for each antlet. Then hookfiles are recreated from the config file.
 
-**Link to work:**  
 <br><br>
 
 ---
@@ -115,8 +110,6 @@ Missed Day. Watched some Lean Six Sigma videos.
 Improve optparse  
 Start working on check for valid antlet name  
 
-**Thoughts:**  
-**Link to work:**  
 <br><br>
 
 ---
@@ -124,8 +117,6 @@ Start working on check for valid antlet name
 **Today's Progress:**  
 Review optparse, start reading optparse documentation  
 
-**Thoughts:**  
-**Link to work:**  
 <br><br>
 
 ---
@@ -134,8 +125,6 @@ Review optparse, start reading optparse documentation
 hooks-file.py: check for hooks directory and create if not exist  
 subprocess.Popen to run commands  
 
-**Thoughts:**  
-**Link to work:**  
 <br><br>
 
 ---
@@ -148,7 +137,6 @@ Learn about `optparse` module
 I start out wanting all possible options and checks  
 I should start with the simplest working form to get it done  
 
-**Link to work:**  
 <br><br>
 
 ---
@@ -160,7 +148,6 @@ Start Python Quick Start for Linux Sys Admins
 **Thoughts:**  
 The `os` module is cool
 
-**Link to work:**  
 <br><br>
 
 ---
@@ -171,7 +158,6 @@ Create delete function.
 Redisplay console after each action to keep screen clean  
 Work on handling text files for creating hooks file.  
 
-**Thoughts:**  
 **Link to work:**  
 [PyBookManager](https://github.com/Shortrope/Python-60-days-of/tree/master/Projects/PyBookManager)
 <br><br>
@@ -181,7 +167,6 @@ Work on handling text files for creating hooks file.
 **Today's Progress:**  
 Create Search function for PyBookManager  
 
-**Thoughts:**  
 **Link to work:**  
 [PyBookManager](https://github.com/Shortrope/Python-60-days-of/tree/master/Projects/PyBookManager)
 <br><br>
@@ -207,7 +192,6 @@ Modules - import
 **Thoughts:**  
 Excited to get started studying today!  
 
-**Link to work:**  
 <br><br>
 
 ---
@@ -218,7 +202,6 @@ Start learning how to create Classes in Python
 **Thoughts:**  
 Good thing I did my time early this morning or would not have gotten my time in today
 
-**Link to work:**  
 <br><br>
 
 ---
@@ -228,7 +211,6 @@ Goal to finish course Getting started w Python and the PyStudentManager example 
 Began writing the app with functions in chap 4  
 Also started working on script to create hooks files for antsle  
 
-**Thoughts:**  
 **Link to work:**  
 [PyStudentManager](https://github.com/Shortrope/Python-60-days-of/tree/master/Projects/PyStudentManager)
 <br><br>
@@ -238,8 +220,6 @@ Also started working on script to create hooks files for antsle
 **Today's Progress:**  
 Codewars challenge: spinWords.py  
 
-**Thoughts:**  
-**Link to work:**  
 <br><br>
 
 ---
@@ -248,8 +228,6 @@ Codewars challenge: spinWords.py
 Did 1 codewars challenge: Categorize Members
 Finish 1st Project: get list of antlets via antsle REST API
 
-**Thoughts:**  
-**Link to work:**  
 <br><br>
 
 ---
@@ -260,6 +238,4 @@ Project: Get list of antlets via antsle REST API
 Review data types  
 Start project  
 
-**Thoughts:**  
-**Link to work:**  
 <br><br>
