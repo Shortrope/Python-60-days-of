@@ -4,7 +4,6 @@ antlet_name=$1
 antlet_type=`basename "$0"`
 action=$2
 
-echo `date` hook/${antlet_type} "antlet ${antlet_name}: $action" >>/var/log/libvirt/hook.log
 
 
 # ONLY EDIT THIS 'case' SECTION
@@ -26,10 +25,11 @@ case $antlet_name in
 #  antlet_ports=( '3002' '3003' )
 #  ;;
 *)
-  echo "`date` hook/${antlet_type} antlet $antlet_name No ports configured!" >>/var/log/libvirt/hook.log
+  exit
   ;;
 esac
 
+echo `date` hook/${antlet_type} "antlet ${antlet_name}: $action" >>/var/log/libvirt/hook.log
 
 # -----------------------------
 # Do not edit beyond this point
