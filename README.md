@@ -9,6 +9,14 @@
 -->
 
 # 100 Days Of Python - Log
+
+## Day 25: November 6, 2018 - 1.5hr
+**Today's Progress:**  
+Exceptions and Comprehensions  
+
+<br><br>
+
+---
 ## Day 24: November 5, 2018 - 1hr
 **Today's Progress:**  
 Python Fundamentals: finish chap 6 collection types  
