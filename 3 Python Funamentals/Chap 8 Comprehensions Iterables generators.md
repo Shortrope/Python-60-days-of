@@ -31,4 +31,4 @@ remember a set contains _unique_ values
                            'Moracco': 'Rabat',
                            'Sweden': 'Stockholm'}
 
-    cap_to_country = {capital: country for country in country_to_capital.items()}
+    cap_to_country = {capital: country for country, capital in country_to_capital.items()}

@@ -10,6 +10,14 @@
 
 # 100 Days Of Python - Log
 
+## Day 26: November 7, 2018 - .5hr
+**Today's Progress:**  
+Hacker Rank Challenge: List comprehensions: cuboid coordinates  
+dirsfirst.py: directory listing w dirs first
+
+<br><br>
+
+---
 ## Day 25: November 6, 2018 - 1.5hr
 **Today's Progress:**  
 Exceptions and Comprehensions  

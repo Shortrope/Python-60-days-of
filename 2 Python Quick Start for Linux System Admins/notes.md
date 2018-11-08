@@ -36,7 +36,7 @@ Operating System system calls
     os.getcwd()
     os.chdir("/etc")
     os.listdir("/")         # returns a list
-    os.walk("/var/log/")               # recursive list
+    os.walk("/var/log/")    # recursive list
 
 ### `os.stat("file")`
 Returns an instance of a stat_result class  
