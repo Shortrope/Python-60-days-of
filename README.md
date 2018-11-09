@@ -10,6 +10,14 @@
 
 # 100 Days Of Python - Log
 
+## Day 27: November 8, 2018 - 1hr
+**Today's Progress:**  
+Review subprocess  
+dirsfirst.py  
+
+<br><br>
+
+---
 ## Day 26: November 7, 2018 - .5hr
 **Today's Progress:**  
 Hacker Rank Challenge: List comprehensions: cuboid coordinates  
