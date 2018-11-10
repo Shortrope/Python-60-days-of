@@ -10,6 +10,17 @@
 
 # 100 Days Of Python - Log
 
+## Day 28: November 9, 2018 - .5hr
+**Today's Progress:**  
+Watch vides on Iterators and Generators  
+
+**Thoughts:**  
+Generators look very cool  
+Very tired today.. just watched the course videos  
+
+<br><br>
+
+---
 ## Day 27: November 8, 2018 - 1hr
 **Today's Progress:**  
 Review subprocess  
