@@ -10,6 +10,20 @@
 
 # 100 Days Of Python - Log
 
+## Day 29: November 10, 2018 - 4hr
+**Today's Progress:**  
+Hook file: create case statements for both lxc and kvm
+
+**Thoughts:**  
+Really enjoy working with someone else on the project.  
+Pushes me to think more critically about what we are doing  
+Incentivizes learning the things we do not know how to do at the moment.  
+
+**Link to work:**  
+[hooks-file](https://github.com/Shortrope/hooks-file)
+<br><br>
+
+---
 ## Day 28: November 9, 2018 - .5hr
 **Today's Progress:**  
 Watch vides on Iterators and Generators  
