@@ -10,6 +10,19 @@
 
 # 100 Days Of Python - Log
 
+## Day 30: November 11, 2018 - 3.5hr
+**Today's Progress:**  
+rename hookconf.py to create-libvirt-hooks.py
+create-libvirt-hooks.py: working version
+- backs up lxc and qemu files
+- writes new lxc and qemu files
+- makes them executable
+
+**Link to work:**  
+[hooks-file](https://github.com/Shortrope/hooks-file)
+<br><br>
+
+---
 ## Day 29: November 10, 2018 - 4hr
 **Today's Progress:**  
 Hook file: create case statements for both lxc and kvm
@@ -31,7 +44,6 @@ Watch vides on Iterators and Generators
 **Thoughts:**  
 Generators look very cool  
 Very tired today.. just watched the course videos  
-
 <br><br>
 
 ---
@@ -39,7 +51,6 @@ Very tired today.. just watched the course videos
 **Today's Progress:**  
 Review subprocess  
 dirsfirst.py  
-
 <br><br>
 
 ---
@@ -47,14 +58,12 @@ dirsfirst.py
 **Today's Progress:**  
 Hacker Rank Challenge: List comprehensions: cuboid coordinates  
 dirsfirst.py: directory listing w dirs first
-
 <br><br>
 
 ---
 ## Day 25: November 6, 2018 - 1.5hr
 **Today's Progress:**  
 Exceptions and Comprehensions  
-
 <br><br>
 
 ---
@@ -62,7 +71,6 @@ Exceptions and Comprehensions
 **Today's Progress:**  
 Python Fundamentals: finish chap 6 collection types  
 Start Chap 7 Exceptions  
-
 <br><br>
 
 ---
@@ -72,7 +80,6 @@ Refactor hookconf.py for more consise parsing
 Reviewed variable scope, Using a 'main' function  
 How to use Regular Expressions  
 Debugging in VS Code  
-
 <br><br>
 
 ---
@@ -84,14 +91,12 @@ Work on hooks file script - using a config file _hooks.conf_
 **Thoughts:**  
 Working w Will spured me on to really understand the issues we ran into while
 writing the script.  
-
 <br><br>
 
 ---
 ## Day 21: November 2, 2018 - 1hr
 **Today's Progress:**  
 Python Funcamentals, Chap 6: Dicts and Sets  
-
 <br><br>
 
 ---
@@ -99,14 +104,12 @@ Python Funcamentals, Chap 6: Dicts and Sets
 **Today's Progress:**  
 Python Fund: Chap 6: Range and Lists  
 Restart hookfile script using a case statement  
-
 <br><br>
 
 ---
 ## Day 19: October 31, 2018 - 1hr
 **Today's Progress:**  
 Review and notes chap 6. Tuples and str  
-
 <br><br>
 
 ---
@@ -124,7 +127,6 @@ Chap 4 python fundamentals
 Thinking about a deferent method for the hookfile.py script.  
 Use a simple config file that is read by the script with only the 
 basic info (variable info) for each antlet. Then hookfiles are recreated from the config file.
-
 <br><br>
 
 ---
@@ -158,14 +160,12 @@ Missed Day. Watched some Lean Six Sigma videos.
 **Today's Progress:**  
 Improve optparse  
 Start working on check for valid antlet name  
-
 <br><br>
 
 ---
 ## Day 13: October 25, 2018 - 1hr
 **Today's Progress:**  
 Review optparse, start reading optparse documentation  
-
 <br><br>
 
 ---
@@ -173,7 +173,6 @@ Review optparse, start reading optparse documentation
 **Today's Progress:**  
 hooks-file.py: check for hooks directory and create if not exist  
 subprocess.Popen to run commands  
-
 <br><br>
 
 ---
@@ -185,7 +184,6 @@ Learn about `optparse` module
 **Thoughts:**  
 I start out wanting all possible options and checks  
 I should start with the simplest working form to get it done  
-
 <br><br>
 
 ---
@@ -196,7 +194,6 @@ Start Python Quick Start for Linux Sys Admins
 
 **Thoughts:**  
 The `os` module is cool
-
 <br><br>
 
 ---
@@ -240,7 +237,6 @@ Inheritance and Polymorphism
 Modules - import  
 **Thoughts:**  
 Excited to get started studying today!  
-
 <br><br>
 
 ---
@@ -250,7 +246,6 @@ Start learning how to create Classes in Python
 
 **Thoughts:**  
 Good thing I did my time early this morning or would not have gotten my time in today
-
 <br><br>
 
 ---
@@ -268,7 +263,6 @@ Also started working on script to create hooks files for antsle
 ## Day 3: October 15, 2018 - 1hr
 **Today's Progress:**  
 Codewars challenge: spinWords.py  
-
 <br><br>
 
 ---
@@ -276,7 +270,6 @@ Codewars challenge: spinWords.py
 **Today's Progress**:  
 Did 1 codewars challenge: Categorize Members
 Finish 1st Project: get list of antlets via antsle REST API
-
 <br><br>
 
 ---
@@ -286,5 +279,4 @@ Decide resourses and a 1st project
 Project: Get list of antlets via antsle REST API  
 Review data types  
 Start project  
-
 <br><br>
