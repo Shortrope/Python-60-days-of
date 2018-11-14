@@ -1,4 +1,5 @@
 # Comprehensions, Iterables and Generators
+A comprehension should have no side effects
 
 ## Comprehensions
 - list
@@ -32,3 +33,11 @@ remember a set contains _unique_ values
                            'Sweden': 'Stockholm'}
 
     cap_to_country = {capital: country for country, capital in country_to_capital.items()}
+
+## Filtering 
+All comprehensions allow an optional filtering clause
+
+`[ expr(item) for item in iterable if predicate(item) ]`
+
+    [len(word) for word in quote if len(word) > 5]
+    [len(word) for word in quote if is_long_word(item)]

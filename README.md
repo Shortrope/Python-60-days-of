@@ -10,6 +10,16 @@
 
 # 100 Days Of Python - Log
 
+## Day 32: November 13, 2018 - 2hr
+**Today's Progress:**  
+Python Fundamentals: Generators
+Some edits to libvirthooks.py. add doc strings
+
+**Link to work:**  
+[hooks-file](https://github.com/Shortrope/hooks-file)
+<br><br>
+
+---
 ## Day 30: November 11, 2018 - 3.5hr
 **Today's Progress:**  
 rename hookconf.py to create-libvirt-hooks.py
