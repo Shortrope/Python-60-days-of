@@ -10,9 +10,16 @@
 
 # 100 Days Of Python - Log
 
+## Day 33: November 14, 2018 - 1hr
+**Today's Progress:**  
+Continue classes
+
+<br><br>
+
+---
 ## Day 32: November 13, 2018 - 2hr
 **Today's Progress:**  
-Python Fundamentals: Generators
+Python Fundamentals: Generators  
 Some edits to libvirthooks.py. add doc strings
 
 **Link to work:**  
@@ -22,7 +29,7 @@ Some edits to libvirthooks.py. add doc strings
 ---
 ## Day 30: November 11, 2018 - 3.5hr
 **Today's Progress:**  
-rename hookconf.py to create-libvirt-hooks.py
+rename hookconf.py to create-libvirt-hooks.py  
 create-libvirt-hooks.py: working version
 - backs up lxc and qemu files
 - writes new lxc and qemu files
