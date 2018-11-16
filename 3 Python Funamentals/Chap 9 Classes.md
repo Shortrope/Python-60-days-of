@@ -38,3 +38,30 @@ Its all public. No enforcement of private and protected members.
             raise ValueError("Invalid route number '{}'".format(number))
 
         self._number = number
+
+## Inheritance
+
+    class Aircraft:
+        def __init__(self, registration):
+            self._registration = registration
+
+        def registration(self):
+            ...
+
+        def num_seats(self):
+            ...
+
+
+    class AirbusA319(Aircraft):
+
+        def model(self):
+            ...
+        def seating_plan(self):
+            ...
+
+    class Boeing777(Aircraft):
+
+        def model(self):
+            ...
+        def seating_plan(self):
+            ...

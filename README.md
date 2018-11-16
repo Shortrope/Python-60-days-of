@@ -10,6 +10,14 @@
 
 # 100 Days Of Python - Log
 
+## Day 34: November 15, 2018 - 1hr
+**Today's Progress:**  
+Py Fund: continue 'classes'  
+Start unittest  
+
+<br><br>
+
+---
 ## Day 33: November 14, 2018 - 1hr
 **Today's Progress:**  
 Continue classes
