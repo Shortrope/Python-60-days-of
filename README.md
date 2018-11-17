@@ -10,7 +10,18 @@
 
 # 100 Days Of Python - Log
 
-## Day 34: November 15, 2018 - 1hr
+## Day 35: November 16, 2018 - 1.5hr
+**Today's Progress:**  
+Python Debugger and Virtual Environments
+
+**Thoughts:**  
+Virtual environments are cool  
+Think I will probably use the IDE debugger but will try PDB
+
+<br><br>
+
+---
+## Day 34: November 15, 2018 - 2hr
 **Today's Progress:**  
 Py Fund: continue 'classes'  
 Start unittest  
