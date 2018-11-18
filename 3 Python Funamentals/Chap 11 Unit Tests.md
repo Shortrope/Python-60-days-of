@@ -16,4 +16,8 @@ Concepts
     - tear-down/clean-up fixture
 1. Assertions
     - specific tests for conditions and behaviors
+        - x.is_valid()
+        - x == y
+        - raise ValueError()
+
 
