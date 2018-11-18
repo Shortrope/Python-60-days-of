@@ -10,6 +10,15 @@
 
 # 100 Days Of Python - Log
 
+## Day 36: November 17, 2018 - 1hr
+**Today's Progress:**  
+Installing 3rd party modules and packaging  
+Files  
+Finished pyfund course
+
+<br><br>
+
+---
 ## Day 35: November 16, 2018 - 1.5hr
 **Today's Progress:**  
 Python Debugger and Virtual Environments
