@@ -10,6 +10,17 @@
 
 # 100 Days Of Python - Log
 
+## Day 37: November 18, 2018 - 5hr
+**Today's Progress:**  
+libvirthooks: add option to return json string  
+Start zfs dependency tree project  
+
+**Link to work:**  
+[zfs dependency tree](https://github.com/Shortrope/zfs-dependency-tree)
+
+<br><br>
+
+---
 ## Day 36: November 17, 2018 - 1hr
 **Today's Progress:**  
 Installing 3rd party modules and packaging  
