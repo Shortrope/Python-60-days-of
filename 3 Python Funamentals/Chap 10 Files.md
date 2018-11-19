@@ -93,4 +93,7 @@ No longer need to call `close()`
 
 
 
+## File like objects
+loosely-defined set of behaviors for things that act like files
+
 
