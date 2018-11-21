@@ -10,6 +10,18 @@
 
 # 100 Days Of Python - Log
 
+## Day 39: November 20, 2018 - 1hr
+**Today's Progress:**  
+Unit testing
+
+<br><br>
+
+---
+## Day 38: November 19, 2018 - 0hr
+Travel to Vegas.. skip day
+<br><br>
+
+---
 ## Day 37: November 18, 2018 - 5hr
 **Today's Progress:**  
 libvirthooks: add option to return json string  
