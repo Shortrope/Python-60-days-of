@@ -10,6 +10,45 @@
 
 # 100 Days Of Python - Log
 
+## Day 44: November 25, 2018 - 0hr
+No progress.. Chores, help Rick w his network
+Checking out Linux Academy Black Friday deal
+Check out Packt Pub Deals
+
+<br><br>
+
+---
+## Day 43: November 24, 2018 - 0hr
+Travel home from Las Vegas
+
+<br><br>
+
+---
+## Day 42: November 23, 2018 - 3.75hr
+**Today's Progress:**  
+unittest and tree algorithm
+work on dependencies project
+
+<br><br>
+
+---
+## Day 41: November 22, 2018 - 0.5hr
+**Today's Progress:**  
+Again, just watched some videos on unittest
+**Thoughts:**  
+Thanks Giving
+
+<br><br>
+
+---
+## Day 40: November 21, 2018 - 0.5hr
+**Today's Progress:**  
+Just watched some videos on unittest
+**Thoughts**
+Hiked Red Rock. Very fatigued!
+<br><br>
+
+---
 ## Day 39: November 20, 2018 - 1hr
 **Today's Progress:**  
 Unit testing
