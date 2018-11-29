@@ -10,17 +10,32 @@
 
 # 100 Days Of Python - Log
 
+## Day 47: November 28, 2018 - 1hr
+**Today's Progress:**  
+Reviewing creating classes.
+<br><br>
+
+---
+## Day 46: November 27, 2018 - 0hr
+No sleep last night. work a few hrs then to hospital
+<br><br>
+
+---
+## Day 45: November 26, 2018 - 1hr
+Trying to implement a linked list in python
+Don't remember what I did this day.. took mom to hospital this afternoon
+<br><br>
+
+---
 ## Day 44: November 25, 2018 - 0hr
 No progress.. Chores, help Rick w his network  
 Checking out Linux Academy Black Friday deal  
 Check out Packt Pub Deals  
-
 <br><br>
 
 ---
 ## Day 43: November 24, 2018 - 0hr
 Travel home from Las Vegas  
-
 <br><br>
 
 ---
@@ -28,7 +43,6 @@ Travel home from Las Vegas
 **Today's Progress:**  
 unittest and tree algorithm  
 work on dependencies project  
-
 <br><br>
 
 ---
@@ -38,7 +52,6 @@ Again, just watched some videos on unittest
 
 **Thoughts:**  
 Thanks Giving  
-
 <br><br>
 
 ---
@@ -48,20 +61,17 @@ Just watched some videos on unittest
 
 **Thoughts**
 Hiked Red Rock. Very fatigued!  
-
 <br><br>
 
 ---
 ## Day 39: November 20, 2018 - 1hr
 **Today's Progress:**  
 Unit testing  
-
 <br><br>
 
 ---
 ## Day 38: November 19, 2018 - 0hr
 Travel to Vegas.. skip day  
-
 <br><br>
 
 ---
@@ -72,7 +82,6 @@ Start zfs dependency tree project
 
 **Link to work:**  
 [zfs dependency tree](https://github.com/Shortrope/zfs-dependency-tree)
-
 <br><br>
 
 ---
@@ -81,7 +90,6 @@ Start zfs dependency tree project
 Installing 3rd party modules and packaging  
 Files  
 Finished pyfund course
-
 <br><br>
 
 ---
@@ -92,7 +100,6 @@ Python Debugger and Virtual Environments
 **Thoughts:**  
 Virtual environments are cool  
 Think I will probably use the IDE debugger but will try PDB
-
 <br><br>
 
 ---
@@ -100,14 +107,12 @@ Think I will probably use the IDE debugger but will try PDB
 **Today's Progress:**  
 Py Fund: continue 'classes'  
 Start unittest  
-
 <br><br>
 
 ---
 ## Day 33: November 14, 2018 - 1hr
 **Today's Progress:**  
 Continue classes
-
 <br><br>
 
 ---
