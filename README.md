@@ -10,6 +10,14 @@
 
 # 100 Days Of Python - Log
 
+## Day 48: November 29, 2018 - 1hr
+**Today's Progress:**  
+Book, Python OOP 2nd ed.
+**Thoughts:**  
+**Link to work:**  
+<br><br>
+
+---
 ## Day 47: November 28, 2018 - 1hr
 **Today's Progress:**  
 Reviewing creating classes.
