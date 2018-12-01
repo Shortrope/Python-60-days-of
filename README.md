@@ -10,6 +10,15 @@
 
 # 100 Days Of Python - Log
 
+## Day 49: November 30, 2018 - 3hr
+**Today's Progress:**  
+zfs dependencies: Have a good list of dict's
+
+**Link to work:**  
+[dependencies.py](https://github.com/Shortrope/zfs-dependency-tree/blob/use-map/src/antlet_dependencies.py)
+<br><br>
+
+---
 ## Day 48: November 29, 2018 - 1hr
 **Today's Progress:**  
 Book, Python OOP 2nd ed.

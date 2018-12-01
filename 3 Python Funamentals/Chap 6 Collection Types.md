@@ -214,7 +214,7 @@ Can convert other types to a dict
 
 ### concatination
     nd = d.update(md)
-If duplicate keys, the new values are used  
+    If duplicate keys, the new values are used  
 
     for key in colors:
         print("{key} -> {value}".format(key=key, value=colors[key]))
