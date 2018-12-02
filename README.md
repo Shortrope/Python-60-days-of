@@ -10,6 +10,13 @@
 
 # 100 Days Of Python - Log
 
+## Day 50: December 1, 2018 - 4hr
+**Today's Progress:**  
+zfs dependencies: bunch of refactorings
+Start show_tree()
+<br><br>
+
+---
 ## Day 49: November 30, 2018 - 3hr
 **Today's Progress:**  
 zfs dependencies: Have a good list of dict's
