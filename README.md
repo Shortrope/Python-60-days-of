@@ -1,5 +1,5 @@
 <!-- 
-## Day N: November N, 2018 - Nhr
+## Day N: December N, 2018 - Nhr
 **Today's Progress:**  
 **Thoughts:**  
 **Link to work:**  
@@ -10,6 +10,15 @@
 
 # 100 Days Of Python - Log
 
+## Day 51: December 2, 2018 - 3.5hr
+**Today's Progress:**  
+get_parents() and display parent tree
+
+**Thoughts:**  
+**Link to work:**  
+<br><br>
+
+---
 ## Day 50: December 1, 2018 - 4hr
 **Today's Progress:**  
 zfs dependencies: bunch of refactorings
