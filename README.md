@@ -10,12 +10,15 @@
 
 # 100 Days Of Python - Log
 
+## Day 52: December 3, 2018 - 1hr
+**Today's Progress:**  
+Start Linux Academy Python for sys admins
+<br><br>
+
+---
 ## Day 51: December 2, 2018 - 3.5hr
 **Today's Progress:**  
 get_parents() and display parent tree
-
-**Thoughts:**  
-**Link to work:**  
 <br><br>
 
 ---
