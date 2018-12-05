@@ -10,6 +10,12 @@
 
 # 100 Days Of Python - Log
 
+## Day 53: December 4, 2018 - 1hr
+**Today's Progress:**  
+Continue w Linux Academy course
+<br><br>
+
+---
 ## Day 52: December 3, 2018 - 1hr
 **Today's Progress:**  
 Start Linux Academy Python for sys admins
