@@ -10,6 +10,12 @@
 
 # 100 Days Of Python - Log
 
+## Day 55: December 6, 2018 - 1.75hr
+**Today's Progress:**  
+Continue w Linux Academy course
+<br><br>
+
+---
 ## Day 54: December 5, 2018 - 1hr
 **Today's Progress:**  
 Continue w Linux Academy course
