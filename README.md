@@ -10,6 +10,12 @@
 
 # 100 Days Of Python - Log
 
+## Day 56: December 7, 2018 - 1hr
+**Today's Progress:**  
+libvirthooks: implement argparse for 2 optional arguments -f and -j
+<br><br>
+
+---
 ## Day 55: December 6, 2018 - 1.75hr
 **Today's Progress:**  
 Continue w Linux Academy course
