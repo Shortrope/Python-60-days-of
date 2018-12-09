@@ -10,6 +10,12 @@
 
 # 100 Days Of Python - Log
 
+## Day 57: December 8, 2018 - 2.75hr
+**Today's Progress:**  
+dependencies: walk and display the child tree
+<br><br>
+
+---
 ## Day 56: December 7, 2018 - 1hr
 **Today's Progress:**  
 libvirthooks: implement argparse for 2 optional arguments -f and -j
