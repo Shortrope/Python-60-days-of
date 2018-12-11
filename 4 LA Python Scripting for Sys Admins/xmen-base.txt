@@ -6,3 +6,6 @@ Nightcrowler
 
 f.read()
 f.seek(0)  # reset generator to the begining. 0 is the index.
+f.readlines()
+f.close()
+

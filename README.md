@@ -10,6 +10,12 @@
 
 # 100 Days Of Python - Log
 
+## Day 59: December 10, 2018 - 1hr
+**Today's Progress:**  
+LA: exceptions, subprocess, list comprehensions
+<br><br>
+
+---
 ## Day 58: December 9, 2018 - 3hr
 **Today's Progress:**  
 dependencies: add argparse - requires zfs_name param
