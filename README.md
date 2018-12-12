@@ -10,6 +10,14 @@
 
 # 100 Days Of Python - Log
 
+## Day 60: December 11, 2018 - 1.5hr
+**Today's Progress:**  
+zfs dependecies: work on creating new json structure. need new recursive function.
+LA: glob, re, json, re
+Create test data
+<br><br>
+
+---
 ## Day 59: December 10, 2018 - 1hr
 **Today's Progress:**  
 LA: exceptions, subprocess, list comprehensions
