@@ -10,6 +10,12 @@
 
 # 100 Days Of Python - Log
 
+## Day 61: December 12, 2018 - 1hr
+**Today's Progress:**  
+Review Environment Vars and working w Files
+<br><br>
+
+---
 ## Day 60: December 11, 2018 - 1.5hr
 **Today's Progress:**  
 zfs dependecies: work on creating new json structure. need new recursive function.
