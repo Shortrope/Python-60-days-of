@@ -10,6 +10,12 @@
 
 # 100 Days Of Python - Log
 
+## Day 62: December 13, 2018 - 1hr
+**Today's Progress:**  
+Linux Academy: did a couple of exercises
+<br><br>
+
+---
 ## Day 61: December 12, 2018 - 1hr
 **Today's Progress:**  
 Review Environment Vars and working w Files
