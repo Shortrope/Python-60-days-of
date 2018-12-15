@@ -10,6 +10,12 @@
 
 # 100 Days Of Python - Log
 
+## Day 63: December 14, 2018 - 1hr
+**Today's Progress:**  
+LA: Subprocess exercise
+<br><br>
+
+---
 ## Day 62: December 13, 2018 - 1hr
 **Today's Progress:**  
 Linux Academy: did a couple of exercises
