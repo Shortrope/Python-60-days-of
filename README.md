@@ -10,6 +10,15 @@
 
 # 100 Days Of Python - Log
 
+## Day 64: December 15, 2018 - 3hr
+**Today's Progress:**  
+Linux academy
+zfs Dependencies: work on recursive function to return json tree
+**Thoughts:**  
+Having tough time w the recursive function
+<br><br>
+
+---
 ## Day 63: December 14, 2018 - 1hr
 **Today's Progress:**  
 LA: Subprocess exercise

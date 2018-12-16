@@ -3,6 +3,7 @@
 from subprocess import Popen, PIPE
 import argparse
 import os
+import sys
 
 parser = argparse.ArgumentParser()
 parser.add_argument("port_number", help="Port number to search for")
@@ -22,3 +23,4 @@ if pid:
     result = os.kill(pid, 9)
 else:
     print('Nothing LISTENing on port {}'.format(args.port_number))
+    sys.exit(1)    
