@@ -10,6 +10,14 @@
 
 # 100 Days Of Python - Log
 
+## Day 65: December 16, 2018 - 1hr
+**Today's Progress:**  
+LA python
+**Thoughts:**  
+Frustrating.  spent alot of time getting setup w CentOS
+<br><br>
+
+---
 ## Day 64: December 15, 2018 - 3hr
 **Today's Progress:**  
 Linux academy
