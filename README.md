@@ -10,6 +10,12 @@
 
 # 100 Days Of Python - Log
 
+## Day 66: December 17, 2018 - .75hr
+**Today's Progress:**  
+LA python setting up final project
+<br><br>
+
+---
 ## Day 65: December 16, 2018 - 1hr
 **Today's Progress:**  
 LA python
