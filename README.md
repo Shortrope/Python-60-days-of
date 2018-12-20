@@ -10,6 +10,22 @@
 
 # 100 Days Of Python - Log
 
+## Day 68: December 19, 2018 - 1hr
+**Today's Progress:**  
+dependencies.py: Work on recursive function for creating json string
+
+**Thoughts:**  
+Still can't get it quite right
+
+**Link to work:**  
+[newjson branch](https://github.com/Shortrope/zfs-dependency-tree/tree/newjson/src)
+<br><br>
+
+---
+## Day 67: December 18, 2018 - 0hr
+<br>
+
+---
 ## Day 66: December 17, 2018 - .75hr
 **Today's Progress:**  
 LA python setting up final project
