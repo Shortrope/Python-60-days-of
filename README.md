@@ -10,6 +10,14 @@
 
 # 100 Days Of Python - Log
 
+## Day 70: December 21, 2018 - 1.5hr
+**Today's Progress:**  
+Review API and Update Tests
+**Link to work:**  
+[newjson branch](https://github.com/Shortrope/zfs-dependency-tree/tree/newjson/src)
+<br><br>
+
+---
 ## Day 69: December 20, 2018 - .75hr
 **Today's Progress:**  
 dependencies: recursive fuction works!
