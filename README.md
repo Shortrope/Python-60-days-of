@@ -10,6 +10,40 @@
 
 # 100 Days Of Python - Log
 
+## Day 75: December 26, 2018 - 1hr
+**Today's Progress:**  
+Start final exercise on Linux Academy - hr  
+
+**Link to work:**  
+[hr - Human Resources](https://github.com/Shortrope/LA-hr)
+<br><br>
+
+---
+## Day 74: December 25, 2018 - 2.75hr
+**Today's Progress:**  
+Linux academy: Finish pgbackup script
+<br><br>
+
+---
+## Day 73: December 24, 2018 - 0hr
+**Today's Progress:**  
+No progress.. rest day
+<br><br>
+
+---
+## Day 72: December 23, 2018 - 3hr
+**Today's Progress:**  
+Work on zfs dependencies script
+Linux academy
+<br><br>
+
+---
+## Day 71: December 22, 2018 - 3hr
+**Today's Progress:**  
+Work on zfs dependencies script
+<br><br>
+
+---
 ## Day 70: December 21, 2018 - 1.5hr
 **Today's Progress:**  
 Review API and Update Tests
