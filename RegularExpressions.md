@@ -3,7 +3,7 @@
 `import re`
 
 **Pattern** 
-- is a raw string so it can include special chars
+- is a raw string so it can not include special chars
 - but can include the regex special chars
 
 The _pattern_ is compiled by `re`
@@ -13,7 +13,7 @@ The _pattern_ is compiled by `re`
     for match in matches:
         print(match)
 
-`match` is an match object
+`match` is a match object
 You can get the re `group` by its index
 
     print(match.group(0))

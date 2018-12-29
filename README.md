@@ -10,6 +10,23 @@
 
 # 100 Days Of Python - Log
 
+## Day 78: December 29, 2018 - 4hr
+**Today's Progress:**  
+Finshed libvirthooks script!
+- argparse
+- returns json
+- can specify config file path  
+
+**Thoughts:**  
+I am always thinking of new things to make it better and need to stay focused
+on making the current feature work before moving on.  Also, choosing the base
+feature that gives the most value.
+
+**Link to work:**  
+[libvirthooks src](https://github.com/Shortrope/libvirthooks/tree/master/src)
+<br><br>
+
+---
 ## Day 77: December 28, 2018 - 4hr
 **Today's Progress:**  
 I think I have a final argparse w tests  
