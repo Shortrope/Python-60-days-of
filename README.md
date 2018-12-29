@@ -10,6 +10,25 @@
 
 # 100 Days Of Python - Log
 
+## Day 77: December 28, 2018 - 4hr
+**Today's Progress:**  
+I think I have a final argparse w tests  
+
+**Thoughts:**  
+I want to clean up and finish libvirthooks  
+This is one of my goals  
+
+**Link to work:**  
+[libvirthooks src](https://github.com/Shortrope/libvirthooks/tree/master/src)
+<br><br>
+
+---
+## Day 76: December 27, 2018 - 1hr
+**Today's Progress:**  
+LA hr: Stuck implementing user password function
+<br><br>
+
+---
 ## Day 75: December 26, 2018 - 1hr
 **Today's Progress:**  
 Start final exercise on Linux Academy - hr  
