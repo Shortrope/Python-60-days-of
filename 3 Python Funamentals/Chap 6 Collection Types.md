@@ -130,7 +130,7 @@ or use tuple unpacking
     'index'
 
 ### slicing
-[start, end, stop]
+[start, end, interval]
 
     >>> s[1:3]
     ['how', 'to']
