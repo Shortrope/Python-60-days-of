@@ -10,6 +10,34 @@
 
 # 100 Days Of Python - Log
 
+## Day 81: January 13, 2018 - 1hr
+**Today's Progress:**  
+Create two 'Study Helper' scripts  
+laopen.py: script to open two windows programs: VSCode and Firefox Linux Academy site.  
+python -m webbrowser: opens a web browser to youtube search page w the specified search terms
+
+**Thoughts:**  
+Make it easier to get started studying Linux on Linux Academy.
+Remove temptation/distraction of youtubes suggested videos when first opened.
+<br><br>
+
+---
+## Day 80: December 31, 2018 - 1hr
+**Today's Progress:**  
+Finish simplified zfs-dependecies script.
+**Thoughts:**  
+Was tring to add to many functions to the script.  Now only prints entire tree
+as a json string or prints an easily readable output to the screen
+<br><br>
+
+---
+## Day 79: December 30, 2018 - 4hr
+**Today's Progress:**  
+Work on zfs-dependencies  
+TDD w python
+<br><br>
+
+---
 ## Day 78: December 29, 2018 - 4hr
 **Today's Progress:**  
 Finshed libvirthooks script!
