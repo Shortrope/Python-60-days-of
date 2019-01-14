@@ -8,7 +8,7 @@
 ---
 -->
 
-# 100 Days Of Python - Log
+# 60 Days Of Python - Log
 
 ## Day 81: January 13, 2018 - 1hr
 **Today's Progress:**  
